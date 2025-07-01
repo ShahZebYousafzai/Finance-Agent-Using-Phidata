@@ -35,8 +35,8 @@ The system consists of two specialized agents:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd financial-ai-agent
+git clone [<repository-url>](https://github.com/ShahZebYousafzai/Finance-Agent-Using-Phidata.git)
+cd Finance-Agent-Using-Phidata
 ```
 
 2. Install dependencies:
